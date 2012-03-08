@@ -1,0 +1,18 @@
+== Arcanum
+
+Arcanum is a single-command configuration dumping tool for Bukkit
+
+=== Commands
+
+* /arcanum
+
+=== Permissions
+
+* arcanum.use
+** //Allows usage of /arcanum
+
+In the absense of Permissions, Defaults to OPs only.
+
+=== Compiling
+
+Maven 3 is required to compile Arcanum
