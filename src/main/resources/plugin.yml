@@ -1,5 +1,5 @@
 name: Arcanum
-main: net.shatteredlands.arcanum
+main: net.shatteredlands.arcanum.Arcanum
 version: ${project.version}
 author: Shatteredbeam
 description:  Arcanum is a single-command configuration dumping tool for Bukkit
